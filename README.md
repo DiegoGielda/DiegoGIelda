@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Diego Gielda
 
 - 🔭 Hoje trabalhando com Delphi
-- 🌱 Estudando JavaScript
+- 🌱 Estudando JavaScript/React
 - 😄 Pronomes: Geuda!
 
 <div align="center">
